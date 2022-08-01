@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @idoatk
 - 👀 I’m interested in ...qa software testing
 - 🌱 I’m currently learning ...java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...selenium postman
 - 📫 How to reach me ...
 
 <!---
