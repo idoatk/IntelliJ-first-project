@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @idoatk
-- 👀 I’m interested in ...QA manual job
-- 🌱 I’m currently learning ...java
+- 👀 I’m interested in ...QA manual & automation job
+- 🌱 I’m currently learning ...javascript
 - 💞️ I’m looking to collaborate on ... testig knowledge
 - 📫 How to reach me ... idoat65@gmail.com
 
